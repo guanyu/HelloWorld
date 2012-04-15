@@ -3,6 +3,10 @@ import org.apache.log4j.Logger;
 
 
 
+/**
+ * @author admin
+ *
+ */
 public class Log4jDemo01 {
 	
 	private static Logger logger = Logger.getLogger(Log4jDemo01.class); 
