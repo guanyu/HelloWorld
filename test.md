@@ -1,5 +1,5 @@
 Welcome to Texts!
-=================
+-----------------
 
 This document shows styles that are available in Texts. Please feel free to edit
 it. A fresh copy is always available via Help menu.
